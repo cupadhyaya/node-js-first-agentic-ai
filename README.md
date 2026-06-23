@@ -1,7 +1,5 @@
 # Node.js First Agentic AI - Simple Guide for Everyone
 
-Simple spoken English. You do not need to be an engineer to understand this.
-
 This repo demonstrates a very simple Retrieval-Augmented Generation (RAG) application using Node.js and Google Gemini.
 
 ## What Is RAG?
